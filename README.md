@@ -1,10 +1,10 @@
 # Converter
 Converter for cryptography and morse.
-![Tela inical do projeto](https://github.com/nikolasdehor/Converter/assets/116849375/b98977cb-16ac-4b50-9e51-65c07ba6f86d)
+![Tela inical do projeto](![alt text](image.png))
 Este conversor gera e traduz criptografias, ele não quebra criptografias, apenas trabalha embaralhando e traduzindo de acordo com a criptografia por ele predefinida.
 O sistema é composto por (1 Alternar Tema Claro/Escuro), (2 Alternar criptografia), (3 Alternar para morse), (4 Alfabeto), (5 Criptografia), (6 Traduzir para criptografia), (7 O seu texto aqui), (8 Enviar), (9 Campo de resultados), (10 Remover).
 
-![Tela inical do projeto](https://github.com/nikolasdehor/Converter/assets/116849375/958e4e34-06a2-4712-bab9-0e1bd1aeb657)
+![Tela inical do projeto](![alt text](image-1.png))
 
 (1)=Altera o tema do projeto para claro ou escuro.
 (2)=Gera uma nova criptografia, o sistema abandona a antiga e usa a mais recente.
