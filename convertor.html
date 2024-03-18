@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de códigos</title>
+    <script src="convertor.js" defer></script>
+    <link rel="stylesheet" href="convertor.css">
+</head>
+<body class="dark">
+    <div class="glass-effect-dark" id="centro">
+        <h1>Criptografia</h1>
+        <label for="translate">Tipo de tradução</label>
+        <button id="switchBtn" class="swith-btn">Alternar Tema Claro/Escuro</button>
+        <hr>
+        <button id="mudarcrip" class="crip-btn" value="1">Alternar criptografia</button>
+        <button id="mudarmorse" class="crip-btn" value="2">Alternar para morse</button>
+        <div id="alfabeto"><h3>Alfabeto</h3></div>
+        <div id="epcCrip"><h3>Criptografia</h3></div>
+        <hr>
+        <select name="tipo" id="translate">
+            <option value="1">1 - Traduzir para criptografia</option>
+            <option value="2">2 - Destraduzir da criptografia</option>
+        </select>
+        <br>
+        <label for="text">O seu texto aqui</label>
+        <br>
+        <textarea name="texto" id="text" cols="79" rows="7"></textarea>
+        <br>
+        <button id="btnEnviar" class="submit-btn">Enviar</button>
+        <hr>
+        <div id="sla"></div>
+    </div>
+</body>
+</html>

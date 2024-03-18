@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.glass-effect-dark {
+    background-color: #3c3e41; 
+    color: #f1f5f9; 
+    border-radius: 10px;
+    padding: 50px;
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+}
+.glass-effect-light {
+    background-color: #d6d6d6; 
+    color: #212529;
+    border-radius: 10px;
+    padding: 50px;
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    box-shadow: 20px 20px 20px rgba(22, 21, 21, 0.1);
+}
+.is-light { background-color: #cecece; color: #212529; }
+.is-dark { background-color: #474747; color: #f1f5f9; }
+    
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.submit-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background: #5cb85c;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.submit-btn:hover{
+    transform: scale(1.1);
+    color:white;
+    background-color: #16a816;
+}
+
+.swith-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background: #3a96ad;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.swith-btn:hover{
+    transform: scale(1.02);
+    color:white;
+    background-color: #42c7e9;
+}
+.crip-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background: #bcbe16;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.crip-btn:hover{
+    transform: scale(1.02);
+    color:white;
+    background-color: #dfe213;
+}
+.card {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    position: relative;
+    color:black;
+}
+
+.card .remove-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border: none;
+    background: #d9534f;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.remove-btn:hover{
+    transform: scale(1.1);
+    color: white;
+    background: rgb(190, 30, 24);
+}
