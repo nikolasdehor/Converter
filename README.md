@@ -9,13 +9,13 @@ O sistema é composto por (1 Alternar Tema Claro/Escuro), (2 Alternar criptograf
 # Tela inical do projeto
 ![alt text](image-1.png)
 
-(1)=Altera o tema do projeto para claro ou escuro.
-(2)=Gera uma nova criptografia, o sistema abandona a antiga e usa a mais recente.
-(3)=Troca para o tipo de criptografia morse.
-(4)=Mostra o alfabeto para comparação do usuário.
-(5)=Mostra a criptografia para comparação do usuário.
-(6)=Um select para alternar entre qual tipo de tradução desejar, escholhe entre criptografar e descriptografar.
-(7)=Área onde usuario pode colocar o testo.
-(8)=Botão que envia a mensagem para o sistema traduzir.
-(9)=Campo onde aparecem os resultados.
-(10)=Botão que remove resultados.
+(1)=Altera o tema do projeto para claro ou escuro.<br>
+(2)=Gera uma nova criptografia, o sistema abandona a antiga e usa a mais recente.<br>
+(3)=Troca para o tipo de criptografia morse.<br>
+(4)=Mostra o alfabeto para comparação do usuário.<br>
+(5)=Mostra a criptografia para comparação do usuário.<br>
+(6)=Um select para alternar entre qual tipo de tradução desejar, escholhe entre criptografar e descriptografar.<br>
+(7)=Área onde usuario pode colocar o testo.<br>
+(8)=Botão que envia a mensagem para o sistema traduzir.<br>
+(9)=Campo onde aparecem os resultados.<br>
+(10)=Botão que remove resultados.<br>
